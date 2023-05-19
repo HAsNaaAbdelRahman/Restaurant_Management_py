@@ -1,0 +1,12 @@
+1	sandwich	80
+2	crepe	60
+3	pizza	150
+4	fishmeal	300
+5	Negresco	90
+6	breakfast	250
+7	Desserts	70
+8	Tea	10
+9	coffee	25
+10	cappuccino	30
+11	omali	210
+12	juice	35
