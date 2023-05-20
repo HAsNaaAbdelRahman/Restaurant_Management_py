@@ -8,6 +8,6 @@
 # projectmates 
 # Doaa Abdullah 
 # Amira Walid
-# Zaniab Fadil
+# Zainab Fadil
 # Shimaa Emad
 # Aya Kamal
